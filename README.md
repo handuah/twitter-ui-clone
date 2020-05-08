@@ -1,6 +1,6 @@
-# whatsupcoders_app
+# Twitter UI Clone
 
-A new Flutter project.
+A UI Clone of the Twitter App 
 
 ## Getting Started
 
